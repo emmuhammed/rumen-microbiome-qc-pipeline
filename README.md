@@ -23,6 +23,25 @@ The aim of this repository is to demonstrate transparent and reproducible statis
 5. Perform beta diversity analysis
 6. Conduct differential abundance testing
 7. Generate summary tables and figures
+8. ## Repository structure
+
+```text
+rumen-microbiome-qc-pipeline/
+├── data/
+│   └── example_metadata.csv
+├── scripts/
+│   ├── 01_import_metadata.R
+│   ├── 02_quality_summary.R
+│   ├── 03_alpha_diversity_example.R
+│   ├── 04_beta_diversity_example.R
+│   └── 05_differential_abundance_example.R
+├── docs/
+│   └── workflow_description.md
+├── results/
+├── figures/
+├── README.md
+├── .gitignore
+└── LICENSE
 
 ## Tools and packages
 This workflow may use:
