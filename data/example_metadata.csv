@@ -1,0 +1,7 @@
+sample_id,animal_id,group,parity,sample_type,collection_day
+S001,6302,Control,1,rumen,175
+S002,6431,Treatment,3,rumen,175
+S003,6432,Control,1,rumen,175
+S004,6476,Treatment,3,rumen,175
+S005,6501,Control,1,rumen,175
+S006,6577,Treatment,3,rumen,175
