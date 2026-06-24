@@ -62,7 +62,21 @@ The repository uses simulated or example data only. No confidential, unpublished
 This repository demonstrates my experience in reproducible statistical analysis of high-dimensional biological data, including preprocessing, quality control, statistical modelling, visualisation and biological interpretation.
 
 It is particularly relevant to statistical omics, microbiome research, methane mitigation studies and reproducible computational biology workflows.
+## Professional relevance
 
+This repository demonstrates my ability to organise and document reproducible statistical workflows for high-dimensional biological data.
+
+The workflow is relevant to:
+
+- statistical omics
+- microbiome data analysis
+- rumen microbial ecology
+- methane mitigation research
+- multi-omics integration
+- reproducible computational biology
+- transparent research software practice
+
+The repository also demonstrates use of structured folders, version-controlled scripts, documented assumptions, example outputs and clear workflow instructions.
 ## Author
 Dr Muhammed Elayadeth-Meethal# rumen-microbiome-qc-pipeline
 Reproducible R workflow for rumen microbiome metadata checking, quality control, diversity analysis and differential abundance.
